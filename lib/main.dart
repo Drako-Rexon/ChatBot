@@ -10,10 +10,13 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Chat Bot",
-      home: Home(),
+      theme: ThemeData(
+        fontFamily: 'Poppins',
+      ),
+      home: const Home(),
     );
   }
 }

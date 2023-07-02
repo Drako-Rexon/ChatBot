@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:chat_bot/Utils/message_screen.dart';
 import 'package:dialog_flowtter/dialog_flowtter.dart';
 import 'package:flutter/material.dart';
@@ -25,7 +27,7 @@ class _HomeState extends State<Home> {
 
   sendMessage(String text) async {
     if (text.isEmpty) {
-      print("Message is empty");
+      log("Message is empty");
     } else {
       setState(() {
         addMessage(Message(text: DialogText(text: [text])), true);

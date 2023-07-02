@@ -21,3 +21,10 @@ flutter:
 
   assets:
     - assets/
+    - assets/fonts/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Black.ttf
+        

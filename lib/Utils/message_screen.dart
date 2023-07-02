@@ -12,7 +12,7 @@ class MessageScreen extends StatefulWidget {
 class _MessageScreenState extends State<MessageScreen> {
   @override
   Widget build(BuildContext context) {
-    double w = MediaQuery.of(context).size.width;
+    // double w = MediaQuery.of(context).size.width;
 
     return ListView.separated(
       itemCount: widget.msg.length,
@@ -43,7 +43,7 @@ class _MessageScreenState extends State<MessageScreen> {
                       ? Colors.grey.shade800
                       : Colors.grey.shade900.withOpacity(0.8),
                 ),
-                constraints: BoxConstraints(maxWidth: w * 2 / 3),
+                // constraints: BoxConstraints(maxWidth: w * 2 / 3),
                 child: Text(
                   widget.msg[i]['message'].text.text[0],
                   style: const TextStyle(color: Colors.white),
