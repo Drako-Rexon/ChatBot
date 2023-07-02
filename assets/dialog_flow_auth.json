@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medical-fbpi",
+  "private_key_id": "009b899369ac5b59991cb38cd88d7151d155b258",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRvv6LgnHIQ1Vk\nEjfB08XDGB6QL1wOJFLgZRZCXE7EFwA0K8cmtnkuB1HMmDiSfnqv8u041Z2ukY87\nM8g8M6G2oDX4cjeV3DB+DOmekmBZH+A5YfbRGl01IIfnBttp7kGCfxVhUhUYkvo3\nR0a186KJqmZAMUthncwpcaM3jUvPyPSNleyY+9pYcCT78xoIJsnRyufWSR7r+E0w\nqU81GasQ070YFyNcOAjI900ZgShzKxhaNuFKBYjRtCdWpiKfMCGjwaUJcMshdXgv\nIqAJlNyw1b2EQ1E5qLIBVS2/f8dzHYpwGmEmXpvxJ9sH8xFpJ21FikNElutCQcVy\nQcUD8SL7AgMBAAECggEAD0rKZTfX/Ylcju9obZ3NOTRSJMyx0f13phDzXALojTxo\nu+UF3+kwPEO1WjeDnGP9+ZkPuZ6Sy1j6eo8DxiaKNPXzqWRZGs3TIprkvOEgMYSf\nmkoYWYDUvdxcJuMQQ+YRPvyZUvSjQXI/LaDpOLfa0whU7HuLlZeQfI8NSYNoPRhg\nQmjJHAO4rIPVJ3jLc+JLlq1HDxYv9l9s4Tp0R1AgCjs1v5w55Hvz2avG+dwniHX/\ntRzvxBdjj7i3Il0YFj8KSt+2a2inBh526+vvtPlu+4+o3JhHJtwFod5sEtBFKi8g\n62PLKCCDz3tYE/XXn3LIAxHTjxi5EH8L5pKQS7q5sQKBgQD8309ExrFhSTePYIvX\nDbjo2N0nrI3ugJ8Yj5sswpVIWz/xg5Gdv0cFZMK7WCxr+SZtmUrfHVAaxRtufdtW\n+69uHllDklpIT7o8wfBUHZhX1WBEfuSdOOpmvXeu49wMZNBSxlKUMqlg6dSzUqvJ\n4+QDBlZbx+0SEdAU8hf/lxKkEQKBgQDUVyFrI2gb1zJsQ9Wd044CNaE2TsHyNpJ5\njoIzLQPYI9WbVbHmw4Qr45iEs6u5aqPRR0bGQ90RllHCERksIWt5R0/KfxgGEYY+\nBa8vyiv5AO2rAzgouyDnKYnB+jRoXv/tUK3rnsLjG99M7YeYGksB2eEe7zR6scOh\n0rWdQzPySwKBgQCCmu/9LMaG4eMRaaMwYsUDdqbbC/OOoN4LOHjEKIgkBAVFv1eh\nax7KeV1el87xwZCIgOk7zY8HFJDzg4ubJIlaTdB65wc8W/lr0htHxrVdgDaligiX\n78KZZ/h92vBXcmZqqkYShwwWow8Zw3Q45TxqF4bZBqy6bXrUpqmgeC3HkQKBgAy6\nDC63uI2yoDsM9ci33VMUk80Fe2phCvZuLC+VCx3xR+Q/hqImJc3bnlCV1D0QvzDT\n7NIFT0K2l7/h9nhGqIJkW8vvQila84jUHmPm4ivSemw9jSgjzx0LyE3wCSQYTY6T\nv1jX8yZZjVC3C+F58fTyciPAgoy4CtmwH2KFnJ9xAoGAYYHbm4owYoUHovh2rrmv\nqoAOVj7+M/qYbX6EnwpZQAScREAqi4M07w05vjriTMZ++UrxHDmhu2nRhv9AtPLA\nN6eOhnBUppnfTzUkFY4K9XOChZylSZrFzqtSEeR5nvxdTCPdHXvlRrDmquKIl3vG\nsAwbPY16MOQzCE1Z7ajb1Bg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@medical-fbpi.iam.gserviceaccount.com",
+  "client_id": "104092463392271070536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40medical-fbpi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
